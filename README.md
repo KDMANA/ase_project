@@ -1,2 +1,2 @@
 # ase_project
- Applied Statistics & Econometrics Projecte
+ Applied Statistics & Econometrics Project
